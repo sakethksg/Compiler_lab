@@ -1,0 +1,9 @@
+int main() {
+	int num =1 ;
+	if ( num == 0) {
+		printf ( " this is zero " ) ;
+	}
+	else {
+		printf (" this is not zero " );
+	}
+}
