@@ -1,0 +1,17 @@
+# Ignore text files
+*.txt
+
+# Ignore compiled files
+*.o
+*.out
+a.out
+lex.yy.c
+
+# Ignore editor temporary files
+*~
+*.swp
+*.swo
+
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
